@@ -1,0 +1,11 @@
+POST https://us-central1-question-analyze.cloudfunctions.net/answer
+Content-Type: application/x-www-form-urlencoded
+
+question=How%20do%20I%20properly%20fertilize%20my%20tomato%20plants?
+
+###
+
+POST https://asia-south1-question-analyze.cloudfunctions.net/handle_answer
+Content-Type: application/x-www-form-urlencoded
+
+question=How%20do%20I%20properly%20fertilize%20my%20tomato%20plants?
